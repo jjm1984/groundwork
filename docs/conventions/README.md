@@ -1,0 +1,1 @@
+Placeholders. Each file here is a stub until the dev partner answers the matching question in `docs/dev-partner-conventions-questions.md` — none of these are decided yet, and nothing here should be treated as this kit's actual position. Once an answer lands, replace the stub with the real convention and move the question from "open" to answered in the questionnaire.

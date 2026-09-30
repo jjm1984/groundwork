@@ -1,0 +1,12 @@
+{
+  "name": "foundations-kit",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Project setup kit: structure, decision records, and a learning loop for a vibe-coded project.",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "index": "node scripts/build-index.js",
+    "handoff-check": "node scripts/handoff-check.js",
+    "check": "npm run validate && npm run index && npm run handoff-check"
+  }
+}

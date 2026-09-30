@@ -1,0 +1,1 @@
+Starts empty on a fresh project. Real `role-*.md` files land here once `prompts/setup-new-project.md` (or `prompts/restructure-existing.md`) asks who owns what — see `templates/roles.md` for the format, and `examples/sample-business/roles/` for a filled-in pair (owner + reviewer, self-review plus periodic external review).

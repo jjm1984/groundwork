@@ -1,0 +1,1 @@
+Decided things only — every file here carries `state: decided`. If something's still being worked out, it belongs in `STATE.md` or `docs/open-questions.md`, not here. See `templates/decision-record.md` for the format.

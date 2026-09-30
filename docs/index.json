@@ -1,0 +1,250 @@
+{
+  "count": 35,
+  "nodes": [
+    {
+      "id": "collaboration-and-hosting-options",
+      "kind": "docs",
+      "state": "decided",
+      "lastUpdated": "2026-09-24",
+      "path": "docs/collaboration-and-hosting-options.md"
+    },
+    {
+      "id": "conventions-deploy",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/conventions/deploy.md"
+    },
+    {
+      "id": "conventions-secrets",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/conventions/secrets.md"
+    },
+    {
+      "id": "conventions-security",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/conventions/security.md"
+    },
+    {
+      "id": "conventions-stack",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/conventions/stack.md"
+    },
+    {
+      "id": "conventions-tests",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/conventions/tests.md"
+    },
+    {
+      "id": "dev-partner-conventions-questions",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-24",
+      "path": "docs/dev-partner-conventions-questions.md"
+    },
+    {
+      "id": "environment-strategy",
+      "kind": "docs",
+      "state": "decided",
+      "lastUpdated": "2026-09-24",
+      "path": "docs/environment-strategy.md"
+    },
+    {
+      "id": "open-questions",
+      "kind": "docs",
+      "state": "open",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/open-questions.md"
+    },
+    {
+      "id": "plugins",
+      "kind": "docs",
+      "state": "decided",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/plugins.md"
+    },
+    {
+      "id": "schema",
+      "kind": "docs",
+      "state": "decided",
+      "lastUpdated": "2026-09-23",
+      "path": "docs/SCHEMA.md"
+    },
+    {
+      "id": "check-practice-not-just-presence",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/check-practice-not-just-presence/SKILL.md"
+    },
+    {
+      "id": "check-repo-sync",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/check-repo-sync/SKILL.md"
+    },
+    {
+      "id": "checkpoint-and-resume",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/checkpoint-and-resume/SKILL.md"
+    },
+    {
+      "id": "deploy-and-verify",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/deploy-and-verify/SKILL.md"
+    },
+    {
+      "id": "devils-advocate",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/devils-advocate/SKILL.md"
+    },
+    {
+      "id": "feedback-to-fix",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/feedback-to-fix/SKILL.md"
+    },
+    {
+      "id": "flag-go-live-readiness",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/flag-go-live-readiness/SKILL.md"
+    },
+    {
+      "id": "log-a-correction",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/log-a-correction/SKILL.md"
+    },
+    {
+      "id": "merge-safely",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/merge-safely/SKILL.md"
+    },
+    {
+      "id": "mine-corrections-periodically",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/mine-corrections-periodically/SKILL.md"
+    },
+    {
+      "id": "mirror-then-integrate",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/mirror-then-integrate/SKILL.md"
+    },
+    {
+      "id": "name-the-gaps",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/name-the-gaps/SKILL.md"
+    },
+    {
+      "id": "ooda-loop",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/ooda-loop/SKILL.md"
+    },
+    {
+      "id": "orchestrate-and-recompose",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/orchestrate-and-recompose/SKILL.md"
+    },
+    {
+      "id": "process-a-backlog-safely",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/process-a-backlog-safely/SKILL.md"
+    },
+    {
+      "id": "promote-recurring-work-to-a-skill",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/promote-recurring-work-to-a-skill/SKILL.md"
+    },
+    {
+      "id": "restructure-safely",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/restructure-safely/SKILL.md"
+    },
+    {
+      "id": "review-before-shipping",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/review-before-shipping/SKILL.md"
+    },
+    {
+      "id": "session-handoff",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/session-handoff/SKILL.md"
+    },
+    {
+      "id": "set-up-collaboration-channel",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/set-up-collaboration-channel/SKILL.md"
+    },
+    {
+      "id": "triage-incoming-work",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/triage-incoming-work/SKILL.md"
+    },
+    {
+      "id": "verify-locally-and-remotely",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/verify-locally-and-remotely/SKILL.md"
+    },
+    {
+      "id": "verify-plan-against-live-state",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/verify-plan-against-live-state/SKILL.md"
+    },
+    {
+      "id": "write-a-decision-record",
+      "kind": "skill",
+      "state": null,
+      "lastUpdated": null,
+      "path": "skills/write-a-decision-record/SKILL.md"
+    }
+  ]
+}
